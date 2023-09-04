@@ -11,6 +11,7 @@ In the package.json file:
 - Change the `author` to your name
 - Change the `description` to your description of the application
 - Change the `appId` to your application ID
+- Replace all occurrences of  `electron-react-boilerplate` with your application/repository name
 
 ## Available Scripts
 
